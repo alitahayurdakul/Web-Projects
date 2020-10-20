@@ -1,0 +1,2 @@
+The project is a web project. In the project, user can delete, update, create new records or view user information.
+The project was carried out using React, Bootstrap 4, Javascript, HTML5, CSS3, Context Api and JSON Server.

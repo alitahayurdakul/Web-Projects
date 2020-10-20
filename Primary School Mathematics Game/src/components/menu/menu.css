@@ -1,0 +1,17 @@
+.firs-div{
+    width: 100%;
+    height: 50px;
+    background-color:transparent;
+    text-align: center; 
+}
+
+.item{
+    width: 20% !important;
+    margin-left: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color:mediumblue;
+}
+.item:hover{
+    color: teal;
+}

@@ -1,0 +1,4 @@
+The project is a simply prepared twitter website. The project provides login with our own user name and
+password. We can also add or edit our own tweets and see other people's tweets. The project was made using
+HTML5, CSS3, JavaScript (ES6), ReactJS, Redux library and Firebase database. Encodings were done via Visual
+Studio Code.

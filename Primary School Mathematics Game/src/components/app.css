@@ -1,0 +1,41 @@
+.container{
+    height: 100%;
+}
+.first-div{
+    width: 100%;
+    height: 100px;
+    background-color:transparent;
+    text-align: center;   
+    display: inline-block;
+}
+.first-link{
+    height: 100%;
+    width: 100%;
+    font-size: 100px;
+    text-decoration: none;
+}
+.first-link:hover{
+    color: violet;
+}
+.second-div{
+    display: inline-block;
+    width: 100%;
+    height: 80px;
+    background-color:transparent;
+    text-align: center;
+    font-size: 40px;
+    color: maroon;
+}
+.second-div-div{
+  margin-top: 30px;
+}
+.menu{
+    height: 100%;
+    margin-top: 20px;
+}
+.third-div{
+    width: 100%;
+    height: 100%;
+    
+}
+

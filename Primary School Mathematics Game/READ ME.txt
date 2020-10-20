@@ -1,0 +1,2 @@
+Mathematics four operation game that appeals to primary school students. 
+The project was made using HTML5, CSS3, Javascript and ReactJS.

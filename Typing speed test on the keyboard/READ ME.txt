@@ -1,0 +1,4 @@
+This project is a web project where you can calculate how many words you can type per minute, improve your
+speed on the keyboard with texts previously saved in the draft and text you can add new. You can also save your
+results in the project. The project was built using HTML5, CSS3, JavaScript (ES6), React JS Framework, Context Api
+and React Hooks. 
