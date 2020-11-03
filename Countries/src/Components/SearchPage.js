@@ -85,7 +85,7 @@ function SearchPage(props) {
                            
                             
                             <p><b className="bondcolor">Population: </b>{country.population}</p>
-                            <p><b className="bondcolor">Area: </b> {country.area} km</p>
+                            <p><b className="bondcolor">Area: </b> {country.area} square kilometer</p>
                             <p><b className="bondcolor">Region: </b>{country.region}</p>
                             <b className="bondcolor">Borders: </b>{country.borders.map(border => {
                                 return (
