@@ -1,0 +1,6 @@
+A website where some important information about 250 countries in the world can be learned. 
+In the project, HTML5 CSS3 JavaScript React Js and API were used.
+
+They should be installed to this project:
+1-) npm install axios
+2-) npm install react-router-dom
