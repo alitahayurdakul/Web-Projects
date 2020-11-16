@@ -1,11 +1,21 @@
+--Firstly, you can create your own react file with the following command:
 create-react-app pantheon
+--You can replace the pantheon with the filename what you want--
 
---You should do these download--
+--Open your react project--
+
+-- After that you should do these download in terminal --
 
 npm install axios
 npm install -g json-server 
+-- You should open json folders in your browser --
 json-server --watch .\api\appSuggestions.json --port 3006
 json-server --watch .\api\topChart.json --port 3005  
 json-server --watch .\api\trackedApps.json --port 3004 
+-------------------------
 npm install --save react-star-ratings
 npm i react-grid-layout 
+
+Finally, you should open your react projects in browser with:
+npm start
+
