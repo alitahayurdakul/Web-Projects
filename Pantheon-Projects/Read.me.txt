@@ -3,6 +3,9 @@ create-react-app pantheon
 --You can replace the pantheon with the filename what you want--
 
 --Open your react project--
+--Delete all folders except node_modules--
+--Then, download this repository's folders--
+--Add these folder to your react projects--
 
 -- After that you should do these download in terminal --
 
