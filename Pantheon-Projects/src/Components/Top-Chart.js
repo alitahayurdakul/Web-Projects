@@ -103,7 +103,7 @@ function TopChart(props) {
 
                                                                     else if (y.rank - app.rank > 0) {
                                                                         return (
-                                                                            <div className="div-green" key={y.id}> +{y.rank - app.rank}
+                                                                            <div className="div-green" key={y.id}><p>+{y.rank - app.rank}</p> 
                                                                                 <div></div>
                                                                             </div>
                                                                         )

@@ -92,7 +92,7 @@ function Tracked_Apps() {
 
                                             else if (appprogress.progress > 0) {
                                                 return (
-                                                    <div className="div-green" key={app.id}> +{appprogress.progress}
+                                                    <div className="div-green" key={app.id}><p>+{appprogress.progress}</p> 
                                                         <div ></div>
                                                     </div>
                                                 )

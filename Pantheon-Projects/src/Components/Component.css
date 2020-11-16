@@ -77,6 +77,12 @@ table{
     margin-left: 10%;
    
 }
+.div-green p,
+.div-orange p,
+.div-red p{
+    width: 40%;
+    text-align: center;
+}
 .div-green div{
     border-bottom: 7px solid green;
     border-left: 7px solid transparent;
