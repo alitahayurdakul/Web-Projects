@@ -1,0 +1,11 @@
+create-react-app pantheon
+
+--You should do these download--
+
+npm install axios
+npm install -g json-server 
+json-server --watch .\api\appSuggestions.json --port 3006
+json-server --watch .\api\topChart.json --port 3005  
+json-server --watch .\api\trackedApps.json --port 3004 
+npm install --save react-star-ratings
+npm i react-grid-layout 
