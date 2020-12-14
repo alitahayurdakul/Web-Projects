@@ -1,0 +1,4 @@
+Application Information Screen
+This web site shows weekly rankings and some information of some games and applications.
+This web site is also suitable for responsive design,draggable,resizable and droppable.
+In the project, HTML5, CSS3, JavaScript, React Js, and API were used.
